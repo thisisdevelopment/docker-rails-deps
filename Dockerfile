@@ -10,6 +10,7 @@ RUN apt-get -y install \
     libmagickwand-dev \
     libmysqlclient-dev \
     mysql-client \
+    netcat \
     openssl \
     libsqlite3-dev \
     sqlite3
